@@ -14,6 +14,7 @@
 <a href="https://github.com/mshuun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mshuun" height="30" width="40" /></a>
 <a href="https://instagram.com/sh1019_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sh1019_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mshun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mshun" height="30" width="40" /></a>
+<a href="https://velog.io/@mshun/posts" target="blank"><img align="center" src="https://assets.disquiet.io/images/product/thumbnail/71e4d050cc5588bf30aea2387817b22f8ed74fe1564678be862e341fb6ce5fe9" alt="mshun" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
