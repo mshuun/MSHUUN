@@ -2,9 +2,7 @@
 
 ### AI Major, CSE @ PNU | Sophomore
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshuun&label=Profile views&color=0e75b6&style=flat" alt="mshuun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshuun" alt="mshuun" /></a> </p>
+[![Hits](https://hits.sh/github.com/mshuun.svg?label=Views&color=007ec6)](https://hits.sh/github.com/mshuun/)
 
 - 🌱 I'm currently learning **Algorithm and Security**
 
